@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the article below."
+title: "Investor Satisfaction through Service Quality: An Evidence of Pokhara Based Brokerage Firms"
+authors:
+  - family-names: Adhikari
+    given-names: Nabin Bahadur
+    orcid: "https://orcid.org/0009-0005-1103-6855"
+  - family-names: Adhikari
+    given-names: Bidhan
+    orcid: "https://orcid.org/0009-0000-0773-7476"
+doi: "10.3126/jnbs.v17i1.75257"
+license: CC-BY-4.0
+date-released: "2024-12-01"
+keywords:
+  - brokerage firm
+  - capital market
+  - service quality
+  - investor satisfaction
+  - Pokhara
+  - Nepal
+preferred-citation:
+  type: article
+  title: "Investor Satisfaction through Service Quality: An Evidence of Pokhara Based Brokerage Firms"
+  authors:
+    - family-names: Adhikari
+      given-names: Nabin Bahadur
+      orcid: "https://orcid.org/0009-0005-1103-6855"
+    - family-names: Adhikari
+      given-names: Bidhan
+      orcid: "https://orcid.org/0009-0000-0773-7476"
+  journal: "The Journal of Nepalese Business Studies"
+  volume: 17
+  issue: 1
+  start: 59
+  end: 69
+  year: 2024
+  month: 12
+  doi: "10.3126/jnbs.v17i1.75257"
+  url: "https://doi.org/10.3126/jnbs.v17i1.75257"
